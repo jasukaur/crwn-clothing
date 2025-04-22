@@ -1,0 +1,17 @@
+﻿Account_Number,CSRP_status,DLRP_Status,Lookup_Status,CSRP_Failure,DLRP_Failure
+23067360000,Duplicate,Duplicate,This account is already enrolled in Demand Response,"Error: AccountNumber: There exists enrollment(s) for account 23067360000 and DR program CSRP, please submit all related enrollments for the account and program together. Existing enrollments can't be updated.","Error: AccountNumber: There exists enrollment(s) for account 23067360000 and DR program DLRP, please submit all related enrollments for the account and program together. Existing enrollments can't be updated."
+61490750009,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+56398531154,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+60488005707,Pending Review,Pending Review,Error: This account is linked to an unknown network. Please contact DemandResponse@coned.com.,Enrollment created successfully,Enrollment created successfully
+47885950007,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+31946920001,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+24738430008,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+65735426515,Pending Review,Pending Review,Error: This account is linked to an unknown network. Please contact DemandResponse@coned.com.,,
+82324299930,Submitted,Submitted,Success,Error: AccountNumber: The coned service class information is missing for the account. Please contact ConEd,Error: AccountNumber: The coned service class information is missing for the account. Please contact ConEd
+14230630007,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+72046931001,Pending Review,Pending Review,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+70214160007,BYOT,BYOT,Error: This account is linked to an unknown network. Please contact DemandResponse@coned.com.,"Error: AccountNumber: Account cannot be enrolled while participating in Smart Thermostat BYOT program. In order to enroll into Smart Usage Rewards, please request customer to unenroll from BYOT by calling 877-870-6118.","Error: AccountNumber: Account cannot be enrolled while participating in Smart Thermostat BYOT program. In order to enroll into Smart Usage Rewards, please request customer to unenroll from BYOT by calling 877-870-6118."
+19783730005,Duplicate,Duplicate,This account is already enrolled in Demand Response,Enrollment created successfully,Enrollment created successfully
+69643249738,Pending Review,Pending Review,Error: This account is linked to an unknown network. Please contact DemandResponse@coned.com.,Enrollment created successfully,Enrollment created successfully
+70843788426,Submitted,Submitted,,Error: AccountNumber: The coned service class information is missing for the account. Please contact ConEd,Error: AccountNumber: The coned service class information is missing for the account. Please contact ConEd
+17776765848,Submitted,Submitted,,Enrollment created successfully,Enrollment created successfully
