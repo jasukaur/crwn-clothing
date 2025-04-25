@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 import FormInput from "../form-input/form-input.component";
 import { Form } from "react-router-dom";
-import Button from "../button/button.component";
+import Button, { BUTTON_TYPE_CLASSES } from "../button/button.component";
 import { UserContext } from "../../contexts/user.context";
 
 import {
@@ -85,10 +85,14 @@ const SignInForm = () => {
           required
         />
         <div className="buttons-container">
-          <Button buttonType="default" type="submit">
+          <Button buttonType={BUTTON_TYPE_CLASSES.base} type="submit">
             Sign In
           </Button>
-          <Button type="button" buttonType="google" onClick={signInWithGoogle}>
+          <Button
+            type="button"
+            buttonType={BUTTON_TYPE_CLASSES.google}
+            onClick={signInWithGoogle}
+          >
             Google SignIn
           </Button>
         </div>
